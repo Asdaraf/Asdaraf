@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asdaraf
-- 👀 I’m interested in Backend Developer.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in Web Developer.
+- 🌱 I’m currently learning Front-end.
 - 📫 How to reach me: franciscojeraldof@gmail.com
 
 <!---
