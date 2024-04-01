@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asdaraf
-- 👀 I’m interested in Web Developer.
-- 🌱 I’m currently learning Front-end.
+- 👀 I’m interested in Web Developer and Game Developer.
+- 🌱 I’m currently learning Front-end and Back-end.
 - 📫 How to reach me: franciscojeraldof@gmail.com
 
 <!---
